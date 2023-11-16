@@ -1,16 +1,16 @@
-#Crowdfunding ETL Mini Project
+# Crowdfunding ETL Mini Project
 
-##Introduction
+## Introduction
 This mini project focuses on building an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and either Python dictionary methods or regular expressions. The goal is to process crowdfunding data, create CSV files, design a database schema, and load the data into a PostgreSQL database.
 
-##Project Structure
+## Project Structure
 
-###Files
+### Files
 [main ETL](https://github.com/anderoos/Crowdfunding-ETL/blob/main/ETL_Mini_Project_ACheng_RGajjar.ipynb)
 [schema ETL](https://github.com/anderoos/Crowdfunding-ETL/blob/main/crowdfunding_db_schema.sql)
 [query ETL](https://github.com/anderoos/Crowdfunding-ETL/blob/main/crowdfunding_db_query.sql)
 
-##Approach
+## Approach
 1. Extracted and Transformed excel crowdfunding.xlxs.
    - Created category, subcategory, and campaign dataframes
 2. Extracted and Transformed excel crowdfunding.xlsx.
@@ -32,7 +32,7 @@ This mini project focuses on building an ETL (Extract, Transform, Load) pipeline
      - created an ERD
   6. Imported csv files into postgres database named crowdfunding_db
 
-##Images
+## Images
 ![ERD](https://github.com/anderoos/Crowdfunding-ETL/blob/main/images/crowdfunding-ERD.png)
 ![processes](https://github.com/anderoos/Crowdfunding-ETL/blob/main/images/successful%20processes.png)
 
