@@ -15,16 +15,16 @@ This mini project focuses on building an ETL (Extract, Transform, Load) pipeline
    - Created category, subcategory, and campaign dataframes
 2. Extracted and Transformed excel crowdfunding.xlsx.
    - cleaned dataset and split into the following columns:
-            - The "cf_id" column
-            - The "contact_id" column
-            - The "company_name" column
-            - The "blurb" column, renamed to "description"
-            - The "goal" column, converted to the float data type
-            - The "pledged" column, converted to the float data type
-            - The "outcome" column
-            - The "backers_count" column
-            - The "country" column
-            - The "currency" column
+      - The "cf_id" column
+      - The "contact_id" column
+      - The "company_name" column
+      - The "blurb" column, renamed to "description"
+      - The "goal" column, converted to the float data type
+      - The "pledged" column, converted to the float data type
+      - The "outcome" column
+      - The "backers_count" column
+      - The "country" column
+      - The "currency" column
   3. Cleaned contacts.xlsx and transformed the data using regular expressions(regex) to create contacts dataframe
   4. All four dataframes were saved to a csv file
   5. Created sql schema by analyzing the csv files
