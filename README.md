@@ -6,9 +6,9 @@ This mini project focuses on building an ETL (Extract, Transform, Load) pipeline
 ## Project Structure
 
 ### Files
-[main ETL](https://github.com/anderoos/Crowdfunding-ETL/blob/main/ETL_Mini_Project_ACheng_RGajjar.ipynb)
-[schema ETL](https://github.com/anderoos/Crowdfunding-ETL/blob/main/crowdfunding_db_schema.sql)
-[query ETL](https://github.com/anderoos/Crowdfunding-ETL/blob/main/crowdfunding_db_query.sql)
+* [main ETL](https://github.com/anderoos/Crowdfunding-ETL/blob/main/ETL_Mini_Project_ACheng_RGajjar.ipynb)
+* [schema ETL](https://github.com/anderoos/Crowdfunding-ETL/blob/main/crowdfunding_db_schema.sql)
+* [query ETL](https://github.com/anderoos/Crowdfunding-ETL/blob/main/crowdfunding_db_query.sql)
 
 ## Approach
 1. Extracted and Transformed excel crowdfunding.xlxs.
